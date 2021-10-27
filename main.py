@@ -8,10 +8,7 @@ def main() -> int:
 
     print( f'hello hello world {args.name}' )
     return 0
-    
 
-if __name__ == '__main__':   
+
+if __name__ == '__main__':
     exit(main())
-
-
-
