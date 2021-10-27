@@ -7,6 +7,8 @@ def main() -> int:
     args = parser.parse_args()
 
     print(f"hello hello world {args.name}")
+
+    print("goodbye!")
     return 0
 
 
